@@ -19,7 +19,7 @@ https://developer.apple.com/forums/thread/97252?answerId=295557022#295557022
 
 <br>
 <p align="center">
- <img src="images/Ejzr3eRXkAEAFKU.jpeg" width="700"  title="NiceWeather">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="images/Ejzr3eRXkAEAFKU.jpeg" width="900"  title="screeshot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </br>
 </p>
 
@@ -36,6 +36,6 @@ If you do not add the language, the settings will let you choose the language bu
 
 <br>
 <p align="center">
- <img src="images/Ejzr3eRXkAEAFKU.jpeg" width="700"  title="NiceWeather">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="images/xcode.png" width="900"  title="xcode localisation">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </br>
 </p>
