@@ -8,9 +8,27 @@
 import SwiftUI
 
 struct ContentView: View {
+
+	@Environment(\.locale) var locale: Locale
+
+	var today: String {
+		let date = Date()
+		let formatter = DateFormatter()
+		formatter.locale = .autoupdatingCurrent
+		formatter.setLocalizedDateFormatFromTemplate("E")
+		return formatter.string(from: date)
+	}
+
     var body: some View {
-        Text("Hello, world!")
+
+			VStack {
+				Text("Localisation test!").font(.title)
+				Text("Language: \(locale.languageCode!)")
+				Text("Region: \(locale.regionCode!)")
+				Text("Today is:")
+				Text(today).font(.largeTitle)
             .padding()
+			}
     }
 }
 
